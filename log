@@ -31,3 +31,9 @@ treemap.c:39:30: note: expected ‘int (*)(void,  void *)’ but argument is of 
 cc1: all warnings being treated as errors
 Compilation failed
 711d87e
+Thu 09 May 2024 08:16:19 PM UTC: 
+ treemap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  24|2
+total_score: 50/70
+d5b4f35
